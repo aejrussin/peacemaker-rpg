@@ -1,3 +1,5 @@
 remote_theme: pages-themes/minimal@v0.2.0
-description: A QUICKDRAW WESTERN ROLE PLAYING GAME FOR TWO
+title: PEACEMAKER
+description: A quickdraw western role playing game for two.
+logo: /assets/PEACEMAKER-thumb200.png
 show_downloads: false

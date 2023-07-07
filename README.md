@@ -1,9 +1,13 @@
-# PEACEMAKER: A QUICKDRAW WESTERN ROLE PLAYING GAME FOR TWO
-## Play to find out about each other, your feud, and how you were changed in the moments before finally making peace.
+# PEACEMAKER
+## A QUICKDRAW WESTERN ROLE PLAYING GAME FOR TWO
+Play to find out about each other, your feud, and how you were changed in the moments before finally making peace.
 
 Written and designed by Aaron Russin
+
 Edited by Jenn Martin
+
 Layout by Dayna Kroeker
+
 Cover and Illustrations by Nicholas Trahan
 
 PEACEMAKER is a quickdraw roleplaying game where we play characters in a wild west showdown: the final confrontation to settle our dispute.
